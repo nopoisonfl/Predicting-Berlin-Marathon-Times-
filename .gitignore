@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.DS_Store
+*.xlsx
+logistic_curves.svg
+parameter_working.txt
